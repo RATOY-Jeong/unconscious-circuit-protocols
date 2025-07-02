@@ -47,9 +47,6 @@ unconscious judgment circuits based on user conversation data via large language
 3. 출력 결과는 `sample_output_1.md` 참고.  
    Use sample outputs as reference.
 
-> *분석 도구 자동화 버전은 추후 공개 예정입니다.*  
-> *Automated toolset will be released later.*
-
 ---
 
 ## 📄 논문 및 출판 (Publications)
