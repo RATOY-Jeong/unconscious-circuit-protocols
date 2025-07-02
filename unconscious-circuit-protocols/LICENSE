@@ -1,16 +1,54 @@
 Copyright (c) 2025 정도현 (DoHyeon Jeong)
 
-This project is licensed under a **Dual License scheme**:
+본 프로토콜 세트(Unconscious Judgment Circuit Analysis Protocols)는  
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)에 따라  
+비영리적, 학술적, 연구 목적으로 자유롭게 사용할 수 있습니다.
 
-1. **Non-Commercial License (CC BY-NC-SA 4.0)**  
-   https://creativecommons.org/licenses/by-nc-sa/4.0/  
-   - Free to use, share, and adapt for **non-commercial purposes only**
-   - Must give credit and share under the same license.
+This protocol set (Unconscious Judgment Circuit Analysis Protocols) is licensed under  
+the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)  
+for academic, non-commercial, and research purposes only.
 
-2. **Commercial Use**  
-   - For companies, institutions, or for-profit projects,  
-     a **separate commercial license must be acquired.**
-   - Contact the author for licensing terms and pricing.
+---
 
-Email: your_email@domain.com
-GitHub: https://github.com/DoHyeonJeong/unconscious-circuit-protocol
+🔓 당신은 다음을 자유롭게 할 수 있습니다:  
+You are free to:
+
+- 복제 및 배포 (어떤 형식이든)  
+  Share — copy and redistribute the material in any medium or format
+
+- 수정 및 2차 창작  
+  Adapt — remix, transform, and build upon the material
+
+---
+
+🔒 단, 아래 조건을 따라야 합니다:  
+Under the following terms:
+
+1. 저작자 명시 (Attribution)  
+   - 반드시 원 저작자인 정도현(DoHyeon Jeong)의 이름과 이메일(parabellum0208@gmail.com)을 명시해야 합니다.  
+   - You must give appropriate credit to the original author, DoHyeon Jeong,  
+     and include the contact email: parabellum0208@gmail.com.
+
+   - 가능하다면 아래 GitHub 저장소 링크도 함께 표기해 주세요:  
+     When possible, please also include the GitHub repository link:  
+     https://github.com/RATOY-Jeong/unconscious-circuit-protocols
+
+2. 비영리 사용 (NonCommercial)  
+   - 이 자료는 상업적으로 사용할 수 없습니다.  
+   - You may not use this material for commercial purposes.
+
+3. 동일조건 공유 (ShareAlike)  
+   - 수정하거나 2차 창작한 경우, 반드시 본 라이선스와 동일한 조건으로 배포해야 합니다.  
+   - If you remix, transform, or build upon the material,  
+     you must distribute your contributions under the same license.
+
+---
+
+❗이 라이선스는 다음의 경우에는 적용되지 않습니다:  
+This license does **not** apply in the following case:
+
+- 기업, 단체, 개인이 이 프로토콜을 유료 상품, 서비스, 콘텐츠 등에 사용하는 경우  
+- If any commercial product, service, or monetized content uses this protocol set
+
+→ 이 경우, 반드시 별도의 ‘상업용 라이선스’가 필요합니다.  
+→ A separate **Commercial License** is required in such cases.
