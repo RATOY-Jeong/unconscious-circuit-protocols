@@ -32,23 +32,50 @@ unconscious judgment circuits based on user conversation data via large language
 | `docs/` | 개요 설명 및 논문/출판용 초안 / Docs & publication drafts |
 | `examples/` | 실제 입력 JSON과 출력 예시 / Sample inputs and outputs |
 | `rawdata/` | ZIP 분석 조건 및 가이드라인 / Data conditions and guides |
+| `run/` | 실행용 프롬포트 및 사용자 가이드 / Runnable prompts and user guide |
 | `LICENSE` | 공개 라이선스 파일 / Open license file (CC BY-NC-SA) |
 | `LICENSE_Commercial` | 상업용 별도 라이선스 / Separate commercial license |
 | `README.md` | 이 파일 / This file |
 
 ---
 
-## 🔧 사용 방법 (How to Use)
+## ⚙️ 사용 방법 (How to Use)
 
-1. `examples/sample_input_1.json` 형식에 맞춰 데이터를 준비합니다.  
-   Prepare your input JSON file in the specified format.
-2. 각 프로토콜 문서의 조건에 따라 분석을 실행합니다.  
-   Follow protocol instructions for execution.
-3. 출력 결과는 `sample_output_1.md` 참고.  
-   Use sample outputs as reference.
+무의식 판단 회로 분석은 아래의 7단계 절차를 따릅니다.
 
-> *분석 도구 자동화 버전은 추후 공개 예정입니다.*  
-> *Automated toolset will be released later.*
+### 1. ZIP 파일 추출 (Export ZIP File)
+- ChatGPT 설정(Settings) → 데이터 제어(Data Controls) → **데이터 내보내기(Export)** 클릭
+- 받은 ZIP 파일을 보관
+
+### 2. 새 프로젝트 시작 (Start New Project)
+- ChatGPT에서 새로운 프로젝트 생성
+
+### 3. 1.0k 지침 추가 (Add v1.0k Guidelines)
+- '지침 추가' 를 열어
+  `run_protocol_v1.0k_kor.md` 본문 내용을 그대로 복사하여 붙여넣기
+
+### 4. 1.7k 회로 추출 실행 (Run v1.7k Protocol)
+- ZIP 파일 업로드
+- 프롬프트에 `run_protocol_v1.7k_kor.md` 본문 내용을 그대로 복사하여 붙여넣기
+
+### 5. 3~5회 반복 분석 (Repeat Analysis 3~5 times)
+- 동일 ZIP 기반으로 각각 독립된 세션에서 분석을 최소 3회, 최대 5회 반복
+
+### 6. 통합 분석 실행 (Run Integrated v1.4k Analysis)
+- 동일 프로젝트 내에서 새 세션(New Chat) 시작
+- 시작 문구 입력: `"여기에 3~5개의 분석결과를 올릴거야"`
+- 앞서 출력된 결과물 3~5개 전체 붙여넣기
+- 마지막으로 `run_protocol_v1.4k_kor.md` 본문 내용을 그대로 복사하여 붙여넣기
+
+### 7. 결과 확인 (Check Final Output)
+- 통합 분석된 회로 결과를 확인
+- 결과는 Markdown 텍스트 형식으로 자동 출력됨
+
+### 8. 주의사항(Cautions)
+- ZIP파일은 사진이 적게 들어가 있을수록 분석 확률이 상승합니다. 분석 전 최대한 사진파일을 제거해주세요.
+- 간혹 마크다운 형식으로 출력중 중간에 끊기는 경우가 있습니다. 그런경우 결과를 통합하여 마크다운 형식으로 출력하도록 요청하세요.
+- 여러 이유로 분석에 실패하는 경우가 있습니다. 새로운 세션에서 다시 시도해주세요.
+- 반드시 상기 절차를 따라주세요.
 
 ---
 
