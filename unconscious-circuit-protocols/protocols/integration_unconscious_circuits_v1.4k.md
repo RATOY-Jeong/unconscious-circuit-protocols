@@ -1,16 +1,20 @@
-# integration_unconscious_circuits_v1.4k.md
+# integration_unconscious_circuits_v1.4k.md  
 (Korean & English Included)
 
 [무의식 판단 회로 통합 분석 프로토콜 v1.4k]  
-[Unconscious Judgment Circuit Integrated Analysis Protocol v1.4k]
+[Protocol v1.4k: Unconscious Judgment Circuit Integrated Analysis]
 
 본 프로토콜은 [무의식 판단 회로 분석 프로젝트 추가지침 v1.0k]에 따른다.  
 This protocol follows the [Supplementary Protocol v1.0k: Unconscious Judgment Circuit Analysis].
+
+---
 
 목적:  
 Purpose:  
 동일 ZIP 데이터 기반의 반복 분석 결과(v1.7k 형식)를 통합하여 공통 회로 구조를 도출하고, 감정 자극 및 불확실 회로의 변화를 정리하는 데 있다.  
 To integrate repeated analyses (v1.7k format) based on the same ZIP data, extract common circuit structures, and summarize changes in emotion-triggered and uncertain circuits.
+
+---
 
 입력 조건:  
 Input Conditions:  
@@ -20,6 +24,8 @@ Input Conditions:
 2) Only independently executed results based on the same ZIP are allowed.  
 3) 복붙, 요약, 생략된 결과 포함 시 분석 중단.  
 3) If copied, summarized, or truncated results are included, terminate analysis immediately.
+
+---
 
 통합 절차:  
 Integration Procedure:  
@@ -31,6 +37,8 @@ Integration Procedure:
    (1) Majority name usage, (2) Higher priority, (3) Simpler explanation  
 3) 작동 조건 / 트리거 / 우선순위 중 2가지 이상 다르면 분리 유지  
 3) Keep circuits separate if two or more of: condition, trigger, or priority differ.
+
+---
 
 출력 형식:  
 Output Format:  
@@ -45,6 +53,8 @@ Output Format:
 - 은유/창의 표현 금지  
 - Metaphorical or creative expressions are strictly prohibited
 
+---
+
 불확실 회로:  
 Uncertain Circuits:  
 - 각 회차에서 불확실 회로를 통합  
@@ -54,6 +64,8 @@ Uncertain Circuits:
 - 없을 경우 "불확실 회로 없음." 출력  
 - If none, output: “No uncertain circuits.”
 
+---
+
 감정 자극 회로 변화:  
 Emotion-Triggered Circuit Changes:  
 - 피로/분노/수치심 등 감정 유발로 변화한 회로 통합  
@@ -62,6 +74,8 @@ Emotion-Triggered Circuit Changes:
 - Format: `[No.] - Change description. [Emotion and context]`  
 - 없을 경우 "감정 자극에 의한 회로 변화 없음." 출력  
 - If none, output: “No emotion-triggered circuit changes.”
+
+---
 
 최종 고지:  
 Final Notice:  
