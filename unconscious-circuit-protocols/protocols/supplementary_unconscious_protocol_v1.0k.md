@@ -1,4 +1,4 @@
-# supplementary_unconscious_protocol_v1.0k.md
+# supplementary_unconscious_protocol_v1.0k.md  
 (Korean & English Included)
 
 [무의식 판단 회로 분석 프로젝트 추가지침 v1.0k]  
